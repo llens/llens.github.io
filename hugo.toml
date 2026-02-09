@@ -1,6 +1,6 @@
 baseURL = "https://llens.github.io/"
 languageCode = "en-gb"
-title = "Thomas Snell -- Quantum Computing & Evolutionary Algorithms"
+title = "Thomas Snell -- Software Engineer & Scientific Computing"
 theme = "PaperMod"
 [pagination]
   pagerSize = 10
@@ -18,7 +18,7 @@ buildExpired = false
 [params]
   env = "production"
   title = "Thomas Snell"
-  description = "Research blog on quantum circuit optimization, evolutionary algorithms, multi-objective search, and quality-diversity methods."
+  description = "Blog by Thomas Snell -- Staff Software Engineer, physicist, and scientific computing enthusiast exploring quantum circuit optimization, evolutionary algorithms, and computational geophysics."
   keywords = ["quantum computing", "evolutionary algorithms", "quantum circuit optimization", "MAP-Elites", "NSGA-II", "quality-diversity", "DEAP", "machine learning"]
   author = "Thomas Snell"
   defaultTheme = "auto"
@@ -42,12 +42,13 @@ buildExpired = false
   [params.homeInfoParams]
     Title = "Thomas Snell"
     Content = """
-Researcher working on quantum circuit optimization using evolutionary algorithms, \
-multi-objective search (NSGA-II), and quality-diversity methods (MAP-Elites). \
-I build fast simulation tools and benchmark optimization methods for automatic \
-quantum algorithm discovery.
+Staff Software Engineer at [SoFi](https://www.sofi.com/) with a background in Physics \
+([Oxford](https://www.ox.ac.uk/)) and a PhD in Computational Geophysics \
+([Durham](https://www.durham.ac.uk/)). Passionate about scientific computing and finding \
+elegant solutions to complex problems. Currently exploring quantum circuit optimization \
+using evolutionary algorithms, multi-objective search, and quality-diversity methods.
 
-[GitHub](https://github.com/llens) | [ORCID](https://orcid.org/0009-0006-2197-835X)
+[GitHub](https://github.com/llens) | [ORCID](https://orcid.org/0009-0006-2197-835X) | [LinkedIn](https://www.linkedin.com/in/tom-snell-59020540)
 """
 
   [[params.socialIcons]]
